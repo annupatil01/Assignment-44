@@ -1,5 +1,5 @@
 import "./Home.css"
-import add from "./img/plus.png"
+import add from "./img/task.png"
 import panda from "./img/boy.png"
 import panda2 from "./img/girl.png"
 import ToDoCard from "../../components/todoCard/todoCard"
@@ -48,7 +48,7 @@ function Home() {
     }
   return (
     <div>
-        <h1 className="app-title">To-Do App 🔖</h1>
+        <h1 className="app-title">To-Do App 🎯</h1>
         <img src={panda} className="boy-img1" alt="boy1"/>
         <div className="todolist-container">
            {
