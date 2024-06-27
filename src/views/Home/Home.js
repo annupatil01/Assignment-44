@@ -64,7 +64,7 @@ function Home() {
             todoList.length === 0
             ? 
               <p style={{textAlign:"center" , fontSize:'22px'}}>
-                No task to show, Add a new task
+                No task to show, Add a new task...!
                 </p>
             : null
            }
