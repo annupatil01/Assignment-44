@@ -88,9 +88,9 @@ function Home() {
                 <option value="Sports">Sports</option>
                 <option value="Learning">Learning</option>
                 <option value="Work">Work</option>
+                <option value="Health">Health</option>
                 <option value="Personal">Personal</option>
                 <option value="Shopping">Shopping</option>
-                <option value="Health">Health</option>
                 <option value="Other">Other</option>
             </select>
 

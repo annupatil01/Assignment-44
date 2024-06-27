@@ -6,9 +6,9 @@ function todoCard({index,task,categeory,deleteItem}) {
         Sports: "🏁",
         Learning: "📚",
         Work: "💻",
+        Health: "🏥",
         Personal: "🔐",
         Shopping: "🛍️",
-        Health: "🏥",
         Other: "📁"
     }
     const Category_Color = {
